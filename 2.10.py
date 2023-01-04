@@ -38,21 +38,72 @@ print("偶数列表：",list2,"奇数列表：",list1)
 # print(n)
 # file.close()
 
-#加密：每位数字都加上 5，然后用除以 10 的余数代替该数字，再将第一位和第四位交换，第二位和第三位交换。
-try:
-    num=int(input("请输入4位整数：\n"))
-except ValueError:
-    print("Please input integer only...") 
-list=[]
-list.append(num%10)
-list.append(num%100/10)
-list.append(num%1000/100)
-list.append(num/1000)
-l=[]
-for i in range(4):
-    n=int((list[i]+5)%10)
-    l.insert(i,n)
-s=""
-for e in l:
-    s=s+str(e)
-print(s)
+# #加密：每位数字都加上 5，然后用除以 10 的余数代替该数字，再将第一位和第四位交换，第二位和第三位交换。
+# try:
+#     num=int(input("请输入4位整数：\n"))
+# except ValueError:
+#     print("Please input integer only...") 
+# list=[]
+# list.append(num%10)
+# list.append(num%100/10)
+# list.append(num%1000/100)
+# list.append(num/1000)
+# l=[]
+# for i in range(4):
+#     n=int((list[i]+5)%10)
+#     l.insert(i,n)
+# s=""
+# for e in l:
+#     s=s+str(e)
+# print(s)
+
+#游戏
+class charactor:
+    name=""
+    sex=""
+    age=0
+    ce=0
+    def __init__(self,name,sex,age,ce):
+        self.name=name
+        self.sex=sex
+        self.age=age
+        self.ce=ce
+    def show(self):
+        print(self.name,self.sex,self.age,"战斗力：",self.ce)
+    def decrease(self):
+        self.ce-=200
+    def increase(self):
+        self.ce+=200
+    def attack(self,other):
+        self.increase()
+        other.decrease()
+        print(self.name+"攻击了"+other.name)
+    def practise(self):
+        self.ce+=100
+        print(self.name+"通过修炼增加100点攻击力！")
+    def surrender(self,other):
+        other.ce+=self.ce
+        self.ce=0
+        print(self.name+"向"+other.name+"投降")
+    
+    
+c1=charactor("仓井井","female",18,1000)
+c2=charactor("东尼木","male",20,1800)
+c3=charactor("美多多","female",19,2500)
+c1.show()
+c2.show()
+c3.show()
+print("---分割线---")
+c1.attack(c2)
+# c1.show()
+# c2.show()
+# c3.show()
+
+c1.practise()
+c1.show()
+print("---分割线---")
+c2.show()
+c3.show()
+c2.surrender(c3)
+c2.show()
+c3.show()
