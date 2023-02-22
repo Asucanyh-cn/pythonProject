@@ -1,0 +1,9 @@
+//*[@id="s-top-left"]/a[1]
+/html/body/div[1]/div[2]/div[2]/a[1]
+/html/body/div[1]/div[2]/div[2]/a[2]
+//*[@id="title-content"]/span[2]
+//*[@id="hotsearch-content-wrapper"]/li/a/span[2]/text()
+//*[@id="hotsearch-content-wrapper"]/li[3]/a
+//*[@id="hotsearch-content-wrapper"]/li[1]/a/span[2]
+
+//*[@id="s_lg_img"]/@src
