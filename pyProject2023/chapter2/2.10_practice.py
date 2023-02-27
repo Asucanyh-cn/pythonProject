@@ -36,7 +36,7 @@ print("偶数列表：",list2,"奇数列表：",list1)
 # #         n+=1
 # n=content.count(str)
 # print(n)
-# file.close()
+# file.clos2e()
 
 # #加密：每位数字都加上 5，然后用除以 10 的余数代替该数字，再将第一位和第四位交换，第二位和第三位交换。
 # try:

@@ -1,4 +1,4 @@
-{
+[{
 	"pageName": "mainsrp",
 	"mods": {
 		"shopcombotip": {
@@ -5028,4 +5028,4 @@
 		"retinaOff": false,
 		"shopcardOff": true
 	}
-}
+}]
