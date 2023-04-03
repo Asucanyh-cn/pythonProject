@@ -1,48 +1,59 @@
 #斐波那契数列
-def Fib(n):
-    a=0
-    b=1
-    print(a,b,end=' ')
-    for i in range(n-2):
-        b=a+b
-        a=b
-        print(b,end=' ')
-    print()
-Fib(4)
-
-
-#筛选出奇数偶数数列
-list0=[2,5,8,12,35,56,9,4,12,55]
-list0.sort()
-print(list0)
-##思路：遍历每一个元素，判断奇偶，放入对应列表中
-list1=[]
-list2=[]
-for e in list0:
-    if e % 2 ==0:
-        list2.append(e)
-    else:
-        list1.append(e)
-print("偶数列表：",list2,"奇数列表：",list1)
+# def Fib(n):
+#     a=1
+#     b=1
+#     if(n==1):
+#         print(a,end=' ')
+#         print()
+#     elif(n==2):
+#         print(a,b,end=' ')
+#         print()
+#     else:
+#         print(a, b, end=' ')
+#         for i in range(n-2):
+#             c=b
+#             b=a+b
+#             a=c
+#             print(b,end=' ')
+#         print()
+# Fib(1)
+# Fib(2)
+# Fib(3)
+# Fib(10)
+#
+# #
+# # #筛选出奇数偶数数列
+# list0=[2,5,8,12,35,56,9,4,12,55]
+# list0.sort()
+# print(list0)
+# ##思路：遍历每一个元素，判断奇偶，放入对应列表中
+# list1=[]
+# list2=[]
+# for e in list0:
+#     if e % 2 ==0:
+#         list2.append(e)
+#     else:
+#         list1.append(e)
+# print("偶数列表：",list2,"奇数列表：",list1)
 
 # #统计文件中的字符串词频
-# file=open('res\\txt\\news.txt','r',encoding='utf-8')
+# file=open('news.txt','r',encoding='utf-8')
 # content=file.read()
 # print(content)
 # str=input("需要统计的字符串：")
 # n=0
-# # for word in content:
-# #     if word == str:
-# #         n+=1
+# for word in content:
+#     if word == str:
+#         n+=1
 # n=content.count(str)
 # print(n)
-# file.clos2e()
-
-# #加密：每位数字都加上 5，然后用除以 10 的余数代替该数字，再将第一位和第四位交换，第二位和第三位交换。
+# file.close()
+# #
+# # #加密：每位数字都加上 5，然后用除以 10 的余数代替该数字，再将第一位和第四位交换，第二位和第三位交换。
 # try:
 #     num=int(input("请输入4位整数：\n"))
 # except ValueError:
-#     print("Please input integer only...") 
+#     print("Please input integer only...")
 # list=[]
 # list.append(num%10)
 # list.append(num%100/10)
@@ -85,11 +96,11 @@ class charactor:
         other.ce+=self.ce
         self.ce=0
         print(self.name+"向"+other.name+"投降")
-    
-    
-c1=charactor("仓井井","female",18,1000)
-c2=charactor("东尼木","male",20,1800)
-c3=charactor("美多多","female",19,2500)
+
+
+c1=charactor("小赵","female",18,1000)
+c2=charactor("小钱","male",20,1800)
+c3=charactor("小孙","female",19,2500)
 c1.show()
 c2.show()
 c3.show()

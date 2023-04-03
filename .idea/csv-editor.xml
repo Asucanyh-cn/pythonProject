@@ -45,6 +45,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\pyProject2023\chapter4\XiaoZhangXinXiang.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\pyProject2023\chapter4\douban.csv">
           <value>
             <Attribute>
@@ -53,6 +60,20 @@
           </value>
         </entry>
         <entry key="\pyProject2023\chapter4\nanjing.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\pyProject2023\chapter4\爬取网页练习\bilibili_movie.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\pyProject2023\chapter7\doubanpd.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

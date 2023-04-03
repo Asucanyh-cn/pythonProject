@@ -9,7 +9,8 @@ import matplotlib.pyplot as plt
 stu = pd.read_csv('grade.csv')
 print(stu)
 
-x = range(4)
+# x = range(4)
+x = range(9)
 xm = []
 km = []
 cj = []
@@ -21,20 +22,17 @@ km = list(stu);
 km.pop(0);
 print(km)
 
-for i in range(9):
-# for i in range(4):
-    cj.append(stu.iloc[i, 1:].values.tolist())
+for i in range(1, 5):
+    cj.append(stu.iloc[:, i].values.tolist())
 print(cj)
 
 fig = plt.figure(figsize=(20, 20))
 
-for i in range(9):
-# for i in range(4):
-    fig.add_subplot(3, 3, i + 1)
-    # fig.add_subplot(2, 2, i + 1)
+for i in range(4):
+    fig.add_subplot(2, 2, i + 1)
     plt.bar(x, cj[i], width=0.5)
-    plt.xticks(x, km, rotation=15)
-    plt.title(xm[i] + "的成绩")
+    plt.xticks(x, xm, rotation=15)
+    plt.title(km[i])
 plt.rcParams['font.sans-serif'] = ['SimHei']
 plt.rcParams['axes.unicode_minus'] = False
 plt.show()
