@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/pyProject2023/chapter4/douban.csv" charset="GBK" />
     <file url="file://$PROJECT_DIR$/pyProject2023/chapter4/nanjing.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pyProject2023/chapter4/python商品信息.csv" charset="GBK" />
     <file url="file://$PROJECT_DIR$/pyProject2023/chapter4/taobao.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pyProject2023/chapter6/datafiles/PeopleOpinionTextData.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pyProject2023/chapter6/datafiles/douban.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pyProject2023/chapter6/datafiles/doubanpd.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pyProject2023/chapter6/datafiles/news.txt" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

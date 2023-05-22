@@ -6,7 +6,7 @@ date:2023/4/3 9:59
 import nltk
 # nltk.download() #安装方法之一
 sen='I love python?'
-token=nltk.word_tokenize(sen)
+token=nltk.word_tokenize(sen) #分词
 print(token)
 
 import re #正则表达式

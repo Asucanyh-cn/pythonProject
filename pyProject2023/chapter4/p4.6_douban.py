@@ -23,7 +23,7 @@ headers={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537
 
 
 # pages=int(input("输入需要爬取的评论数："))
-totals=50
+totals=120
 url= url+'&limit='+str(totals)
 print(url)
 
@@ -31,7 +31,7 @@ htm=requests.get(url,headers=headers)
 htm.encodings='utf-8'
 selector=etree.HTML(htm.text)
 
-f=open('douban.csv', 'a', encoding='utf-8',newline='')
+f=open('douban.csv', 'w', encoding='utf-8',newline='')
 f.write('name,status,comment,rate,zan\n')
 # f.write('status,comment,rate,zan\n')
 # writer = csv.DictWriter(f, fieldnames=['name','status','comments','rate','zan'])
@@ -60,7 +60,7 @@ for i in range(totals):
 
     print('[Info]正在写入行...('+num+')')
     # f.write(s)
-    f.write('{name},{status},{comments},{rate},{zan}\n'.format(**temp))
+    f.write("{name},{status},{comments},{rate},{zan}\n".format(**temp))
     # f.write('{status},{comments},{rate},{zan}\n'.format(**temp))
     # writer.writerow(temp)
 f.close()

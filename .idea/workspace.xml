@@ -5,153 +5,90 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a588782-759f-42be-baf7-952f5b744196" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter3/3.4_practice_(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter3/3.4_practice_(3).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter3/3.4_practice_(4).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter3/3.4_practice_(4)_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter3/csvTest.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter3/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter3/figure-1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter3/grade.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter3/p3.1_numpy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter3/p3.2_pandas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter3/p3.3_matplotlib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter3/titanic.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/240斤的胖妈的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/365248915的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/Boki的搬运工的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/Cram阿强的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/YES小哥的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/p孃驾到尝美食的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/万仔是个大吃货的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/东北厨子大鹏的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/丹霞春姐的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/主厨农国栋的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/乡村瑶哥的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/乡村美食炊二锅的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/乡村食叔的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/五阿哥美食记的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/南澳岛记录员彪哥的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/原始美食与生活的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/吃不胖的杨肉串的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/吃货圆圈圈的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/吃货小伟的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/吃货的直播.jpg" afterPathEscaped="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/吃货😏的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/味小五的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/哈尔滨新东方烹饪学校的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/国涛513256【天恩】的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/在下李灿的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/大E特吃的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/大壮和朵拉的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/大师的菜的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/大强食堂的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/大梅小镇的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/大盛、农村女人的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/女胖胖的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/密子君Mires的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/小厨娘美食记的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/小文哥吃吃吃的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/小渔村阿兴的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/小诗哥vlog的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/山村胖哥的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/山药视频的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/川味娟姐的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/巴西精神小伙的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/广西婷表妹的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/怪蛋求生影视的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/恰饭橘的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/我是三三呀的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/我是孙少奇的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/我的幸福小生活的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/承越-三德子美食的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/探海渔人的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/探野的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/搜罗大千万象奇葩美食的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/敬汉卿的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/李子柒的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/杰哥野钓的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/林肉肉肉的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/梨涡少女mini的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/油条西施的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/济川源的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/海岛老二的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/涛哥爱海钓的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/清然小厨的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/渔人乡仔的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/渔农老张的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/渔客阚哥的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/渔民阿平的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/渝乡味小哥的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/渤海二蛋的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/温温的露台生活的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/溅本尊的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/炊烟大壮的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/爱野钓的小范的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/田野上的繁荣的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/百味大彭的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/盗月社食遇记的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/盛世-爱妮猫猫的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/穿毛裤的小拉泽的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/绵羊料理的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/美食作家王刚的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/老三找找筷子的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/胖三疯的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/胖子阿谦的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/胖猴仔的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/花都兄弟的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/衣谷水原egg的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/角虫手君的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/记录美食的蛋黄派的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/赶海二哥的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/超小厨的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/越南阿晴的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/钧木-包子姐的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/陈说美食的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/饼子李的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/馋人老田的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/鸬鹚兄弟的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/HuyaPictures/黄掌勺的直播.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/baidu_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/douban.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/huya.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/nanjing.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/p4.1_requests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/p4.2_xpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/p4.4_pachong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/p4.5_fenye.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/p4.6_douban.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/p4.6_jindong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/taobao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/taobao.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/xiaozhangxinxiang.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/xpath.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/xpath.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/爬取网页练习/bilibili_movie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter4/爬取网页练习/pptmail_net.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter7/datafiles/doubanpd.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter7/datafiles/ironman.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter7/datafiles/movieReviews.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter7/datafiles/mtpl .xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter7/datafiles/news.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter7/datafiles/userdict.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter7/p1_nltk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter7/p1_pandas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter7/p1_titanic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter7/stop_words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter7/titanic.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter7/词性" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/5.11_practice_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/5.11_practice_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/5.11_practice_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/5.11_practice_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/5.4_svm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/5.5_shenjingwangluo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/5.6_pusubeiyesi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/Advertising.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/LogisticRegression.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/air.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/bankloan.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/input_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/menu_orders.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/p5.1.1_duoyuanhuigui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/p5.1.2_luojihuigui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/p5.1_huigui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/p5.2_jueceshu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/p5.3_knn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/p5.7_julei.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/p5.8_guanlianguize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/p5.9_pca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/ratings.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/sales.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/sales.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/titanic_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/tree.dot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/tree_credit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/tree_credit_practice_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/tree_survived.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/tree_survived1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/watermelon.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter5/wine.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/.cache/v/cache/lastfailed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/6.3TextBlob.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/6.9_practice_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/FunctionUtils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/PeopleOpinionDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/PeopleOpinionTextDataMining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/TextMiningDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/datafiles/DoubanComment1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/datafiles/DoubanComment2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/datafiles/DoubanComment4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/datafiles/DoubanCommentClean.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/datafiles/DoubanCommentOnlyChinese.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/datafiles/DoubanCommentScore.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/datafiles/DoubanCommentSimplified.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/datafiles/PeopleOpinionTextData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/datafiles/cn_stopwords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/datafiles/douban.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/datafiles/mtpl .xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/datafiles/timg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/p3_jieba.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/p4_snownlp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/p5_wordcloud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/p6_regex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyProject2023/chapter6/p7_LDA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多元统计分析/fatal-police-shootings-data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多元统计分析/fatal-police-shootings-onehot.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多元统计分析/fatal-police-shootings.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多元统计分析/fatal-police-shoots.sav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多元统计分析/fatal-police-shoots.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多元统计分析/fatal-police-shoots_1.sav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多元统计分析/fatal-police-shoots_2.sav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多元统计分析/各州死亡统计.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多元统计分析/描述性分析.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多元统计分析/数据处理.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyProject2022/chapter2/2.10.(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/pyProject2022/chapter2/2.10.(1).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyProject2022/chapter2/news.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pyProject2022/chapter2/news.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyProject2023/chapter2/2.10_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyProject2023/chapter2/2.10_practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyProject2023/chapter2/news.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pyProject2023/chapter2/news.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyProject2023/chapter3/3.4_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyProject2023/chapter3/3.4_practice_(1).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyProject2023/chapter3/p1_numpy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyProject2023/chapter3/p3.3_matplotlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyProject2023/chapter3/p3.3_matplotlib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyProject2023/chapter4/douban.csv" beforeDir="false" afterPath="$PROJECT_DIR$/pyProject2023/chapter4/douban.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyProject2023/chapter4/p4.6_douban.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyProject2023/chapter4/p4.6_douban.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyProject2023/chapter7/datafiles/doubanpd.csv" beforeDir="false" afterPath="$PROJECT_DIR$/pyProject2023/chapter6/datafiles/doubanpd.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyProject2023/chapter7/datafiles/ironman.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pyProject2023/chapter6/datafiles/ironman.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyProject2023/chapter7/datafiles/movieReviews.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/pyProject2023/chapter6/datafiles/movieReviews.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyProject2023/chapter7/datafiles/mtpl .xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyProject2023/chapter7/datafiles/news.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pyProject2023/chapter6/datafiles/news.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyProject2023/chapter7/datafiles/userdict.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pyProject2023/chapter6/datafiles/userdict.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyProject2023/chapter7/p1_nltk.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyProject2023/chapter6/p1_nltk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyProject2023/chapter7/p1_pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyProject2023/chapter6/p2_pandas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyProject2023/chapter7/p1_titanic.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyProject2023/chapter6/p1_titanic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyProject2023/chapter7/stop_words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pyProject2023/chapter6/datafiles/stop_words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyProject2023/chapter7/titanic.csv" beforeDir="false" afterPath="$PROJECT_DIR$/pyProject2023/chapter6/datafiles/titanic.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyProject2023/chapter7/词性" beforeDir="false" afterPath="$PROJECT_DIR$/pyProject2023/chapter6/datafiles/词性" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,6 +105,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="abf9336d-2207-4f11-b0fd-219a5fec043a" />
+        <option name="url" value="https://github.com/Asucanyh-cn/pythonProject.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -179,32 +129,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Onedrive/pythonProject/pyProject2023/chapter7",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Onedrive/pythonProject/多元统计分析&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Onedrive\pythonProject\多元统计分析" />
+      <recent name="D:\Onedrive\pythonProject\pyProject2023\chapter5" />
+      <recent name="D:\Onedrive\pythonProject\pyProject2023\chapter7\datafiles" />
       <recent name="D:\Onedrive\pythonProject\pyProject2023\chapter7" />
       <recent name="D:\Onedrive\pythonProject\pyProject2023\chapter4" />
-      <recent name="D:\Onedrive\pythonProject\pyProject2023\chapter3" />
-      <recent name="D:\Onedrive\pythonProject\pyProject2023\chapter2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Onedrive\pythonProject\pyProject2023\chapter7\datafiles" />
       <recent name="D:\Onedrive\pythonProject\pyProject2023\chapter7" />
       <recent name="D:\Onedrive\pythonProject\pyProject2023\chapter7\文本清洗资源" />
       <recent name="D:\Onedrive\pythonProject\pyProject2023\chapter4" />
       <recent name="D:\Onedrive\pythonProject\pyProject2023\chapter4\HuyaPictures" />
-      <recent name="D:\Onedrive\pythonProject\pyProject2023\chapter2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.p1_pandas">
-    <configuration name="bilibili_movie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.sales">
+    <configuration name="5.11_practice_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyProject2023/chapter4/爬取网页练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyProject2023/chapter5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyProject2023/chapter4/爬取网页练习/bilibili_movie.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyProject2023/chapter5/5.11_practice_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="huya" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.11_practice_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,11 +184,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyProject2023/chapter4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyProject2023/chapter5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Onedrive\pythonProject\pyProject2023\chapter4\huya.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyProject2023/chapter5/5.11_practice_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +218,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p1_nltk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="p5.7_julei" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,11 +226,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyProject2023/chapter7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyProject2023/chapter5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyProject2023/chapter7/p1_nltk.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyProject2023/chapter5/p5.7_julei.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p1_pandas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="p7_LDA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,11 +247,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyProject2023/chapter7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyProject2023/chapter6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyProject2023/chapter7/p1_pandas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyProject2023/chapter6/p7_LDA.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,7 +260,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pptmail_net" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sales" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,32 +268,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyProject2023/chapter4/爬取网页练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyProject2023/chapter5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyProject2023/chapter4/爬取网页练习/pptmail_net.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="requestTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyProject2023" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyProject2023/requestTest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyProject2023/chapter5/sales.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -353,11 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.p1_pandas" />
-        <item itemvalue="Python.p1_nltk" />
-        <item itemvalue="Python.bilibili_movie" />
-        <item itemvalue="Python.pptmail_net" />
-        <item itemvalue="Python.requestTest" />
+        <item itemvalue="Python.sales" />
+        <item itemvalue="Python.5.11_practice_4" />
+        <item itemvalue="Python.5.11_practice_3" />
+        <item itemvalue="Python.p7_LDA" />
+        <item itemvalue="Python.p5.7_julei" />
       </list>
     </recent_temporary>
   </component>
@@ -382,6 +312,42 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="bc52e673-6929-4900-9848-fab7fe601442">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/Onedrive/pythonProject/pyProject2023/chapter5" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="bc52e673-6929-4900-9848-fab7fe601442" value="TOOL_WINDOW" />
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

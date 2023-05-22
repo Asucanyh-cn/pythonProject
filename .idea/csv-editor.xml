@@ -17,6 +17,48 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\pyProject2022\chapter5\Advertising.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\pyProject2022\chapter5\LogisticRegression.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\pyProject2022\chapter5\input_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\pyProject2022\chapter5\sales.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\pyProject2022\chapter5\titanic_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\pyProject2023\chapter2\doubanpd.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\pyProject2023\chapter3\csvTest.csv">
           <value>
             <Attribute>
@@ -66,6 +108,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\pyProject2023\chapter4\python商品信息.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\pyProject2023\chapter4\爬取网页练习\bilibili_movie.csv">
           <value>
             <Attribute>
@@ -73,14 +122,105 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\pyProject2023\chapter7\doubanpd.csv">
+        <entry key="\pyProject2023\chapter5\Advertising.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\pyProject2023\chapter7\titanic.csv">
+        <entry key="\pyProject2023\chapter5\LogisticRegression.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\pyProject2023\chapter5\bankloan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\pyProject2023\chapter5\input_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\pyProject2023\chapter5\sales.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\pyProject2023\chapter5\titanic_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\pyProject2023\chapter5\watermelon.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\pyProject2023\chapter6\datafiles\DoubanCommentScore.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\pyProject2023\chapter6\datafiles\PeopleOpinionTextData.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\pyProject2023\chapter6\datafiles\douban.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\pyProject2023\chapter6\datafiles\doubanpd.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\pyProject2023\chapter6\datafiles\titanic.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\多元统计分析\fatal-police-shootings-data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\多元统计分析\fatal-police-shootings-onehot.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\多元统计分析\fatal-police-shootings.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
