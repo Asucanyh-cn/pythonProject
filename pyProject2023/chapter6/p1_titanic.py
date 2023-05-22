@@ -4,7 +4,7 @@ author:yh
 date:2023/3/1 11:01
 '''
 import pandas as pd
-df = pd.read_csv('titanic.csv')
+df = pd.read_csv('datafiles/titanic.csv')
 print(df.head().to_string())
 # print(df.describe().to_string())
 # print(df.describe(include='all').to_string())
